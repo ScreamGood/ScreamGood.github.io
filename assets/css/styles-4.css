@@ -1,4 +1,4 @@
-/*   
+/*
  * Template Name: Delta - Responsive Website Template for mobile apps
  * Version: 1.8
  * Author: Xiaoying Riley at 3rd Wave Media
@@ -153,6 +153,15 @@ select {
   background-repeat: repeat;
   background-position: left top;
 }
+
+.has-pattern-svizzr {
+  background: url('../images/patterns/pattern-2.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 .delayp1 {
   animation-delay: .1s;
   -moz-animation-delay: .1s;
